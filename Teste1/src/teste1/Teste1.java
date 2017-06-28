@@ -16,7 +16,7 @@ public class Teste1 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Oi mais uma vez Linux...");
+        System.out.println("Oi mais uma vez Linux ......");
     }
     
 }
